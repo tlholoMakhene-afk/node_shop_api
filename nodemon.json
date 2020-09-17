@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_ATLAS_PWD": "p8yiiMq68PvCgfLj",
+        "JWT_KEY" : "secret",
+       "API_DOMAIN" : "https://localhost:3000" 
+    }
+}
